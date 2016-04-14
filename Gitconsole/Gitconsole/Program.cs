@@ -10,7 +10,11 @@ namespace Gitconsole
     {
         static void Main(string[] args)
         {
+<<<<<<< HEAD
             Console.Write("Pozdrav iz aplikacije Josip Kopic D1111");
+=======
+            Console.Write("Pozdrav iz aplikacije Josip Kopic");
+>>>>>>> 5ec3707... Prvi Commit
         }
     }
 }
